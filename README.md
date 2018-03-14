@@ -9,13 +9,13 @@
 ## 安装
 
 ``` bash
-npm install vue-loading-easy -save
+npm install vue-new-loading -save
 ```
 
 ## SPA使用
 
 ```bash
-import Loading from 'vue-loading-easy'
+import Loading from 'vue-new-loading'
 
 Vue.use(Loading)
 
