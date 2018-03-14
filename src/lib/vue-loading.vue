@@ -61,14 +61,11 @@
 <style lang="scss" scoped>
   .vue-loading{
     display: flex;
-    position: absolute;
-    left: 50%;
-    top: 50%;
-    margin-left: -100px;
-    margin-top: -100px;
+    /*position: absolute;*/
+    /*left: 50%;*/
     height: 200px;
     width: 200px;
-    background: rgba(0,0,0,0.6);
+    /*background: rgba(0,0,0,0.6);*/
     align-items: center;
     justify-content: center;
     border-radius: 20px;
