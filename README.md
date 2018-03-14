@@ -68,4 +68,5 @@ Vue.use(Loading)
 | text          | 文字显示      | String   |加载中...
 | color         | 图标颜色      | String   |lightgreen
 | scale         | 弹窗缩放      | String   |1
+| background    | 背景设置      | String   |transparent
 
