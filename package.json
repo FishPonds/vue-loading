@@ -1,8 +1,8 @@
 {
-  "name": "vue-loading-easy",
-  "description": "A Vue.js project",
+  "name": "vue-new-loading",
+  "description": "A Vue.js Loading project",
   "version": "1.0.0",
-  "author": "linguokang <595332720@qq.com>",
+  "author": "scorpiocat <tianxiemaochiyu@outlook.com>",
   "license": "MIT",
   "private": false,
   "scripts": {

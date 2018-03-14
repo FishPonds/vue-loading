@@ -1,5 +1,5 @@
 <template>
-  <div class="vue-loading" v-if="isLoading" :style="{transform: getScale}">
+  <div class="vue-loading" v-if="isLoading" :style="{transform: getScale, background: background}">
     <div class="img-box" >
       <div :class="[{ loading }, type]" >
         <span :style="{ background: color}"></span>
@@ -37,6 +37,10 @@
       scale:{
         type: String,
         default: '1'
+      },
+      background:{
+        type: String,
+        default: 'transparent'
       }
     },
     data() {
